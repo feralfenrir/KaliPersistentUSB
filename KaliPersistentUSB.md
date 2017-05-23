@@ -1,5 +1,9 @@
 # Persistence Storage for a bootable Kali USB drive
 
+**Sources:**
+- [Kali Linux Live USB Persistence](http://docs.kali.org/downloading/kali-linux-live-usb-persistence)
+- [Kali Linux USB Persistence](http://docs.kali.org/kali-dojo/03-kali-linux-usb-persistence-encryption)
+
 ## Without Encryption
 
 1. Create a Bootable Kali USB using `Rufus` or `Win32 Disk Imager` or `Universal USB Installer`.
